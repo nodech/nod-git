@@ -1,0 +1,13 @@
+{
+  "name": "nod-git",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "git-release-dates": "./bin/git-release-dates.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nodari Chkuaselidze",
+  "license": "MIT"
+}
