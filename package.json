@@ -9,5 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nodari Chkuaselidze",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bcfg": "^0.1.7",
+    "brq": "^0.1.8"
+  },
+  "bundledDependencies": [
+    "brq",
+    "bcfg"
+  ]
 }
